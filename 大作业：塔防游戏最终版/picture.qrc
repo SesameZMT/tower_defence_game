@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>background.jpeg</file>
+        <file>bullet.jpeg</file>
+        <file>defencetower.jpeg</file>
+        <file>map.jpeg</file>
+        <file>position.jpeg</file>
+        <file>defencetower2.jpeg</file>
+        <file>defencetower3.jpeg</file>
+        <file>map2.jpeg</file>
+        <file>map3.jpeg</file>
+        <file>monster3.jpeg</file>
+        <file>monster.png</file>
+        <file>monsters2.jpeg</file>
+    </qresource>
+</RCC>
